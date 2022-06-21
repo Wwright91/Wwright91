@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wisdom Wright</h1>
 <h3 align="center">Future Software Developer At Pursuit</h3>
-<img align="right" alt="Coding" width="400" src="https://3.bp.blogspot.com/-vHuQ-Bn6lTg/V-qRgGtUZ7I/AAAAAAAAB8Y/LpyekK2EshEWsdWSGHCHmTrB1JC6G11hwCLcB/s640/javascript%2Bcodebehind.gif”>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/105987838/174905910-864c553d-1868-46b5-869a-5c33ba67485c.png)”>
 
 - 🌱 I’m currently learning **Javascript**
 
