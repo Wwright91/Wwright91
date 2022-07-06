@@ -11,8 +11,6 @@
 - 🎮 Fun fact **I love The Sims**
 
 <h3 align="left">Connect with me: 
-  
-  github -> https://github.com/Wwright91 
                                   
   linkedin -> https://www.linkedin.com/in/wisdom-wright-bb68b6243/</h3>
 <p align="left">
