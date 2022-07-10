@@ -2,8 +2,6 @@
 <h3 align="center">Fullstack Software Developer At Pursuit That Is Passionate About Learning</h3>
 <img align="right" alt="pic" width="400" src="https://3.bp.blogspot.com/-vHuQ-Bn6lTg/V-qRgGtUZ7I/AAAAAAAAB8Y/LpyekK2EshEWsdWSGHCHmTrB1JC6G11hwCLcB/s640/javascript%2Bcodebehind.gif">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🤓 I’m currently learning **Javascript**
 
 - 🍽 Ask me about **Food. I'm a huge foodie and I love to cook. If I'm not coding, you will find me watching anything Gordon Ramsay**
