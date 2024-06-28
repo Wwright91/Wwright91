@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **🗨 wisdomwright-martin@pursuit.org**
 
-<h3 align="left">Connect with me: 
+<h3 align="left">Connect with me:  
                                   
   linkedin -> https://www.linkedin.com/in/wisdom-wright-bb68b6243/</h3>
 <p align="left">
